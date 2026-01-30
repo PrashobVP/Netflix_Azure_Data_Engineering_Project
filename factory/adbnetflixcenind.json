@@ -1,0 +1,9 @@
+{
+	"name": "adbnetflixcenind",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b40ae0e8-2344-42dc-be2a-c7b841cd7619",
+		"tenantId": "7bbd1a79-4620-48a6-932b-df9ba42ac9d2"
+	}
+}
